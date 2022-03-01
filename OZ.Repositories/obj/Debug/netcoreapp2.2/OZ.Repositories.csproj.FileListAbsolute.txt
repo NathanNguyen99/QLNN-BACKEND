@@ -1,0 +1,16 @@
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp2.2\OZ.Repositories.deps.json
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp2.2\OZ.Repositories.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp2.2\OZ.Repositories.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp2.2\OZ.Interfaces.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp2.2\OZ.Models.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp2.2\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp2.2\OZ.Interfaces.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp2.2\OZ.Models.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp2.2\OZ.ViewModels.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\obj\Debug\netcoreapp2.2\OZ.Repositories.csprojAssemblyReference.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\obj\Debug\netcoreapp2.2\OZ.Repositories.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\obj\Debug\netcoreapp2.2\OZ.Repositories.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\obj\Debug\netcoreapp2.2\OZ.Repositories.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\obj\Debug\netcoreapp2.2\OZ.Repositories.csproj.CopyComplete
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\obj\Debug\netcoreapp2.2\OZ.Repositories.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\obj\Debug\netcoreapp2.2\OZ.Repositories.pdb

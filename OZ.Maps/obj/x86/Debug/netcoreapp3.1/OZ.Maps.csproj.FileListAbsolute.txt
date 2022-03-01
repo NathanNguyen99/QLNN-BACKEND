@@ -1,0 +1,17 @@
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\bin\x86\Debug\netcoreapp3.1\OZ.Maps.deps.json
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\bin\x86\Debug\netcoreapp3.1\OZ.Maps.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\bin\x86\Debug\netcoreapp3.1\OZ.Maps.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\bin\x86\Debug\netcoreapp3.1\OZ.Entities.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\bin\x86\Debug\netcoreapp3.1\OZ.Interfaces.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\bin\x86\Debug\netcoreapp3.1\OZ.ViewModels.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\bin\x86\Debug\netcoreapp3.1\OZ.Interfaces.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\bin\x86\Debug\netcoreapp3.1\OZ.Entities.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\bin\x86\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\obj\x86\Debug\netcoreapp3.1\OZ.Maps.csproj.AssemblyReference.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\obj\x86\Debug\netcoreapp3.1\OZ.Maps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\obj\x86\Debug\netcoreapp3.1\OZ.Maps.AssemblyInfoInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\obj\x86\Debug\netcoreapp3.1\OZ.Maps.AssemblyInfo.cs
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\obj\x86\Debug\netcoreapp3.1\OZ.Maps.csproj.CoreCompileInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\obj\x86\Debug\netcoreapp3.1\OZ.Maps.csproj.CopyComplete
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\obj\x86\Debug\netcoreapp3.1\OZ.Maps.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Maps\obj\x86\Debug\netcoreapp3.1\OZ.Maps.pdb

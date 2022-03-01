@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.API\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-01-03T07:16:32.0067263Z;True|2022-01-03T14:06:37.3050443+07:00;True|2022-01-03T14:00:52.4377060+07:00;True|2022-01-03T11:48:54.8828572+07:00;True|2021-12-29T14:52:17.1303771+07:00;True|2021-12-28T16:44:23.5836906+07:00;True|2021-12-20T16:57:58.8293465+07:00;True|2021-12-20T11:11:27.6573460+07:00;True|2021-12-18T09:59:46.6638196+07:00;True|2021-12-16T15:49:47.7218841+07:00;True|2021-12-16T15:43:02.3399121+07:00;True|2021-12-16T10:42:35.5883699+07:00;True|2021-12-16T10:41:24.4295855+07:00;True|2021-12-15T09:50:58.2857537+07:00;True|2021-12-13T09:59:49.1263752+07:00;True|2021-11-17T14:38:58.1881240+07:00;True|2021-11-17T14:30:58.4498483+07:00;True|2021-10-15T17:19:36.9121206+07:00;True|2021-10-15T15:33:29.5488466+07:00;</History>
+  </PropertyGroup>
+</Project>

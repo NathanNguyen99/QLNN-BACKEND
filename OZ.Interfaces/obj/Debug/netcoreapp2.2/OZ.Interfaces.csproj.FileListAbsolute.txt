@@ -1,0 +1,14 @@
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Interfaces\bin\Debug\netcoreapp2.2\OZ.Interfaces.deps.json
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Interfaces\bin\Debug\netcoreapp2.2\OZ.Interfaces.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Interfaces\bin\Debug\netcoreapp2.2\OZ.Interfaces.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Interfaces\bin\Debug\netcoreapp2.2\OZ.Models.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Interfaces\bin\Debug\netcoreapp2.2\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Interfaces\bin\Debug\netcoreapp2.2\OZ.Models.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Interfaces\bin\Debug\netcoreapp2.2\OZ.ViewModels.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Interfaces\obj\Debug\netcoreapp2.2\OZ.Interfaces.csprojAssemblyReference.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Interfaces\obj\Debug\netcoreapp2.2\OZ.Interfaces.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Interfaces\obj\Debug\netcoreapp2.2\OZ.Interfaces.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Interfaces\obj\Debug\netcoreapp2.2\OZ.Interfaces.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Interfaces\obj\Debug\netcoreapp2.2\OZ.Interfaces.csproj.CopyComplete
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Interfaces\obj\Debug\netcoreapp2.2\OZ.Interfaces.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Interfaces\obj\Debug\netcoreapp2.2\OZ.Interfaces.pdb

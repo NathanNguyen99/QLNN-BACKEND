@@ -1,0 +1,16 @@
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Maps\bin\Debug\netcoreapp2.2\OZ.Maps.deps.json
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Maps\bin\Debug\netcoreapp2.2\OZ.Maps.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Maps\bin\Debug\netcoreapp2.2\OZ.Maps.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Maps\bin\Debug\netcoreapp2.2\OZ.Interfaces.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Maps\bin\Debug\netcoreapp2.2\OZ.Models.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Maps\bin\Debug\netcoreapp2.2\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Maps\bin\Debug\netcoreapp2.2\OZ.Interfaces.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Maps\bin\Debug\netcoreapp2.2\OZ.Models.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Maps\bin\Debug\netcoreapp2.2\OZ.ViewModels.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Maps\obj\Debug\netcoreapp2.2\OZ.Maps.csprojAssemblyReference.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Maps\obj\Debug\netcoreapp2.2\OZ.Maps.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Maps\obj\Debug\netcoreapp2.2\OZ.Maps.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Maps\obj\Debug\netcoreapp2.2\OZ.Maps.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Maps\obj\Debug\netcoreapp2.2\OZ.Maps.csproj.CopyComplete
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Maps\obj\Debug\netcoreapp2.2\OZ.Maps.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Maps\obj\Debug\netcoreapp2.2\OZ.Maps.pdb

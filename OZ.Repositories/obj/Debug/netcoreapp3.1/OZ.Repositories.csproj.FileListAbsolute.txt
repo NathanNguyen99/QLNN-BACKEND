@@ -1,0 +1,112 @@
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.deps.json
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp3.1\OZ.Interfaces.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp3.1\OZ.Models.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp3.1\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp3.1\OZ.Interfaces.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp3.1\OZ.Models.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\bin\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.AssemblyReference.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.CopyComplete
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.pdb
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.deps.json
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.dll
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.pdb
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Entities.dll
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Interfaces.dll
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.ViewModels.dll
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Interfaces.pdb
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Entities.pdb
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.AssemblyReference.cache
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.AssemblyInfoInputs.cache
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.AssemblyInfo.cs
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.CopyComplete
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.dll
+C:\Users\it.hai\source\repos\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.deps.json
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Commons.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Entities.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Interfaces.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Commons.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Interfaces.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Entities.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.AssemblyReference.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.CopyComplete
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.pdb
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.deps.json
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.dll
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.pdb
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Commons.dll
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Entities.dll
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Interfaces.dll
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.ViewModels.dll
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Commons.pdb
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Interfaces.pdb
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Entities.pdb
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.AssemblyReference.cache
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.AssemblyInfoInputs.cache
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.AssemblyInfo.cs
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.CopyComplete
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.dll
+C:\Users\Oryza\Desktop\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.deps.json
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.dll
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Commons.dll
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Entities.dll
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Interfaces.dll
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.ViewModels.dll
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Commons.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Interfaces.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Entities.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.AssemblyReference.cache
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.AssemblyInfoInputs.cache
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.AssemblyInfo.cs
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.CoreCompileInputs.cache
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.dll
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.CopyComplete
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.deps.json
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.runtimeconfig.json
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.runtimeconfig.dev.json
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Repositories.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Commons.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Entities.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Interfaces.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.ViewModels.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Commons.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Interfaces.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.Entities.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\bin\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.AssemblyReference.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.AssemblyInfoInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.AssemblyInfo.cs
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Repositories\obj\Debug\netcoreapp3.1\OZ.Repositories.genruntimeconfig.cache

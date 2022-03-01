@@ -1,0 +1,9 @@
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Commons\bin\Debug\netcoreapp2.2\OZ.Commons.deps.json
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Commons\bin\Debug\netcoreapp2.2\OZ.Commons.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Commons\bin\Debug\netcoreapp2.2\OZ.Commons.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Commons\obj\Debug\netcoreapp2.2\OZ.Commons.csprojAssemblyReference.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Commons\obj\Debug\netcoreapp2.2\OZ.Commons.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Commons\obj\Debug\netcoreapp2.2\OZ.Commons.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Commons\obj\Debug\netcoreapp2.2\OZ.Commons.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Commons\obj\Debug\netcoreapp2.2\OZ.Commons.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Commons\obj\Debug\netcoreapp2.2\OZ.Commons.pdb

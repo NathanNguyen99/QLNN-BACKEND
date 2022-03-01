@@ -1,0 +1,10 @@
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\bin\Debug\netcoreapp3.1\OZ.Models.deps.json
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\bin\Debug\netcoreapp3.1\OZ.Models.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\bin\Debug\netcoreapp3.1\OZ.Models.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\obj\Debug\netcoreapp3.1\OZ.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\obj\Debug\netcoreapp3.1\OZ.Models.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\obj\Debug\netcoreapp3.1\OZ.Models.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\obj\Debug\netcoreapp3.1\OZ.Models.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\obj\Debug\netcoreapp3.1\OZ.Models.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\obj\Debug\netcoreapp3.1\OZ.Models.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\obj\Debug\netcoreapp3.1\OZ.Models.csproj.AssemblyReference.cache

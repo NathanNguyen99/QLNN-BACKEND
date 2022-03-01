@@ -1,0 +1,59 @@
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.deps.json
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.csproj.AssemblyReference.cache
+C:\Users\it.hai\source\repos\OZ.API\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.deps.json
+C:\Users\it.hai\source\repos\OZ.API\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.dll
+C:\Users\it.hai\source\repos\OZ.API\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+C:\Users\it.hai\source\repos\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\it.hai\source\repos\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.AssemblyInfoInputs.cache
+C:\Users\it.hai\source\repos\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.AssemblyInfo.cs
+C:\Users\it.hai\source\repos\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\it.hai\source\repos\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.dll
+C:\Users\it.hai\source\repos\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+C:\Users\it.hai\source\repos\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.csproj.AssemblyReference.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.deps.json
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Oryza\Desktop\OZ.API\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.deps.json
+C:\Users\Oryza\Desktop\OZ.API\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.dll
+C:\Users\Oryza\Desktop\OZ.API\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+C:\Users\Oryza\Desktop\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Oryza\Desktop\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oryza\Desktop\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Oryza\Desktop\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.AssemblyInfo.cs
+C:\Users\Oryza\Desktop\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Oryza\Desktop\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.dll
+C:\Users\Oryza\Desktop\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.deps.json
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.dll
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.AssemblyInfoInputs.cache
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.AssemblyInfo.cs
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.csproj.CoreCompileInputs.cache
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.dll
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.deps.json
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.AssemblyInfo.cs
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.pdb

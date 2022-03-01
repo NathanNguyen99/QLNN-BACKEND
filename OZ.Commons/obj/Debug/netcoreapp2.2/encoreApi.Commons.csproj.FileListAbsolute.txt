@@ -1,0 +1,9 @@
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.Commons\bin\Debug\netcoreapp2.2\encoreApi.Commons.deps.json
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.Commons\bin\Debug\netcoreapp2.2\encoreApi.Commons.dll
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.Commons\bin\Debug\netcoreapp2.2\encoreApi.Commons.pdb
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.Commons\obj\Debug\netcoreapp2.2\encoreApi.Commons.csproj.CoreCompileInputs.cache
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.Commons\obj\Debug\netcoreapp2.2\encoreApi.Commons.AssemblyInfoInputs.cache
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.Commons\obj\Debug\netcoreapp2.2\encoreApi.Commons.AssemblyInfo.cs
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.Commons\obj\Debug\netcoreapp2.2\encoreApi.Commons.dll
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.Commons\obj\Debug\netcoreapp2.2\encoreApi.Commons.pdb
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.Commons\obj\Debug\netcoreapp2.2\encoreApi.Commons.csprojAssemblyReference.cache

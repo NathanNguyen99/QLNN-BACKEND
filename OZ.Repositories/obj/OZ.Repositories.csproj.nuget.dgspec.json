@@ -1,0 +1,358 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Repositories\\OZ.Repositories.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Commons\\OZ.Commons.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Commons\\OZ.Commons.csproj",
+        "projectName": "OZ.Commons",
+        "projectPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Commons\\OZ.Commons.csproj",
+        "packagesPath": "C:\\Users\\Oryza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Commons\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Oryza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Interfaces\\OZ.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Interfaces\\OZ.Interfaces.csproj",
+        "projectName": "OZ.Interfaces",
+        "projectPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Interfaces\\OZ.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Oryza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Oryza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Models\\OZ.Entities.csproj": {
+                "projectPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Models\\OZ.Entities.csproj"
+              },
+              "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.ViewModels\\OZ.ViewModels.csproj": {
+                "projectPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.ViewModels\\OZ.ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.18, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Models\\OZ.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Models\\OZ.Entities.csproj",
+        "projectName": "OZ.Entities",
+        "projectPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Models\\OZ.Entities.csproj",
+        "packagesPath": "C:\\Users\\Oryza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Oryza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Repositories\\OZ.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Repositories\\OZ.Repositories.csproj",
+        "projectName": "OZ.Repositories",
+        "projectPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Repositories\\OZ.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Oryza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Oryza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Commons\\OZ.Commons.csproj": {
+                "projectPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Commons\\OZ.Commons.csproj"
+              },
+              "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Interfaces\\OZ.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Interfaces\\OZ.Interfaces.csproj"
+              },
+              "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Models\\OZ.Entities.csproj": {
+                "projectPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Models\\OZ.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.4, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "LinqToExcel": {
+              "target": "Package",
+              "version": "[1.11.0, )"
+            },
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.18, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.18, )"
+            },
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.ViewModels\\OZ.ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.ViewModels\\OZ.ViewModels.csproj",
+        "projectName": "OZ.ViewModels",
+        "projectPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.ViewModels\\OZ.ViewModels.csproj",
+        "packagesPath": "C:\\Users\\Oryza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Oryza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

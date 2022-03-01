@@ -1,0 +1,16 @@
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Services\bin\Debug\netcoreapp2.2\OZ.Services.deps.json
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Services\bin\Debug\netcoreapp2.2\OZ.Services.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Services\bin\Debug\netcoreapp2.2\OZ.Services.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Services\bin\Debug\netcoreapp2.2\OZ.Interfaces.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Services\bin\Debug\netcoreapp2.2\OZ.Models.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Services\bin\Debug\netcoreapp2.2\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Services\bin\Debug\netcoreapp2.2\OZ.Interfaces.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Services\bin\Debug\netcoreapp2.2\OZ.Models.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Services\bin\Debug\netcoreapp2.2\OZ.ViewModels.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Services\obj\Debug\netcoreapp2.2\OZ.Services.csprojAssemblyReference.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Services\obj\Debug\netcoreapp2.2\OZ.Services.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Services\obj\Debug\netcoreapp2.2\OZ.Services.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Services\obj\Debug\netcoreapp2.2\OZ.Services.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Services\obj\Debug\netcoreapp2.2\OZ.Services.csproj.CopyComplete
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Services\obj\Debug\netcoreapp2.2\OZ.Services.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Services\obj\Debug\netcoreapp2.2\OZ.Services.pdb

@@ -1,0 +1,28 @@
+2021-12-15 15:14:41.1707|{"Message":"An error has occurred."}
+2021-12-15 15:23:10.2278|System.Threading.ThreadAbortException: System error.
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.AsyncMethodBuilderCore.Start[TStateMachine](TStateMachine& stateMachine)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClientHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageInvoker.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.PostAsync(Uri requestUri, HttpContent content)
+   at OZ.Api.Controllers.AddictController.UploadImage(Byte[] fileValue, String filename) in D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.API\Controllers\AddictController.cs:line 123
+2021-12-15 16:34:21.7986|System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at OZ.Api.Controllers.AddictController.UploadImage(Byte[] fileValue, String filename) in D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.API\Controllers\AddictController.cs:line 127
+2021-12-15 16:34:30.1644|System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at OZ.Api.Controllers.AddictController.UploadImage(Byte[] fileValue, String filename) in D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.API\Controllers\AddictController.cs:line 127
+2021-12-15 16:34:43.7407|System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at OZ.Api.Controllers.AddictController.UploadImage(Byte[] fileValue, String filename) in D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.API\Controllers\AddictController.cs:line 127
+2021-12-15 16:39:36.1027|System.UriFormatException: Invalid URI: The format of the URI could not be determined.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at OZ.Api.Controllers.AddictController.UploadImage(Byte[] fileValue, String filename) in D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.API\Controllers\AddictController.cs:line 127

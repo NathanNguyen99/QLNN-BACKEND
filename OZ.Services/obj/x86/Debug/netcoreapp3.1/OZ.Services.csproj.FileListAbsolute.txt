@@ -1,0 +1,17 @@
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\bin\x86\Debug\netcoreapp3.1\OZ.Services.deps.json
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\bin\x86\Debug\netcoreapp3.1\OZ.Services.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\bin\x86\Debug\netcoreapp3.1\OZ.Services.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\bin\x86\Debug\netcoreapp3.1\OZ.Entities.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\bin\x86\Debug\netcoreapp3.1\OZ.Interfaces.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\bin\x86\Debug\netcoreapp3.1\OZ.ViewModels.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\bin\x86\Debug\netcoreapp3.1\OZ.Interfaces.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\bin\x86\Debug\netcoreapp3.1\OZ.Entities.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\bin\x86\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\obj\x86\Debug\netcoreapp3.1\OZ.Services.csproj.AssemblyReference.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\obj\x86\Debug\netcoreapp3.1\OZ.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\obj\x86\Debug\netcoreapp3.1\OZ.Services.AssemblyInfoInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\obj\x86\Debug\netcoreapp3.1\OZ.Services.AssemblyInfo.cs
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\obj\x86\Debug\netcoreapp3.1\OZ.Services.csproj.CoreCompileInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\obj\x86\Debug\netcoreapp3.1\OZ.Services.csproj.CopyComplete
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\obj\x86\Debug\netcoreapp3.1\OZ.Services.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Services\obj\x86\Debug\netcoreapp3.1\OZ.Services.pdb

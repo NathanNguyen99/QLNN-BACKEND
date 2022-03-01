@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.API\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-01-10T02:45:19.9238943Z;True|2022-01-10T09:44:57.8614356+07:00;True|2022-01-10T09:31:57.0385632+07:00;True|2022-01-10T09:31:42.7924276+07:00;True|2022-01-10T09:05:23.0166412+07:00;True|2022-01-10T08:31:23.8816984+07:00;True|2022-01-08T14:02:38.2187289+07:00;True|2022-01-07T14:38:45.6163890+07:00;True|2022-01-07T11:27:44.9021044+07:00;True|2022-01-04T17:04:04.9045797+07:00;</History>
+  </PropertyGroup>
+</Project>

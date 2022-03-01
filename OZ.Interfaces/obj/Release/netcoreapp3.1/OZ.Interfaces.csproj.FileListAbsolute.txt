@@ -1,0 +1,43 @@
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.Interfaces.deps.json
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.Interfaces.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.Interfaces.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.Entities.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.ViewModels.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.Entities.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.csproj.AssemblyReference.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.csproj.CopyComplete
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.Interfaces.deps.json
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.Interfaces.dll
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.Interfaces.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.Entities.dll
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.ViewModels.dll
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.ViewModels.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.Entities.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.csproj.AssemblyReference.cache
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.AssemblyInfoInputs.cache
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.AssemblyInfo.cs
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.csproj.CoreCompileInputs.cache
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.dll
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.Interfaces.deps.json
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.Interfaces.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.Interfaces.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.Entities.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.ViewModels.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.ViewModels.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\bin\Release\netcoreapp3.1\OZ.Entities.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.AssemblyInfo.cs
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\obj\Release\netcoreapp3.1\OZ.Interfaces.pdb

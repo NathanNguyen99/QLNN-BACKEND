@@ -1,0 +1,9 @@
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\bin\Release\netcoreapp2.2\OZ.Models.deps.json
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\bin\Release\netcoreapp2.2\OZ.Models.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\bin\Release\netcoreapp2.2\OZ.Models.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\obj\Release\netcoreapp2.2\OZ.Models.csprojAssemblyReference.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\obj\Release\netcoreapp2.2\OZ.Models.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\obj\Release\netcoreapp2.2\OZ.Models.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\obj\Release\netcoreapp2.2\OZ.Models.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\obj\Release\netcoreapp2.2\OZ.Models.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.Models\obj\Release\netcoreapp2.2\OZ.Models.pdb

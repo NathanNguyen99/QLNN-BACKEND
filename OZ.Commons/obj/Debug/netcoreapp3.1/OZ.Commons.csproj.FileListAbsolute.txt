@@ -1,0 +1,40 @@
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\bin\Debug\netcoreapp3.1\OZ.Commons.deps.json
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\bin\Debug\netcoreapp3.1\OZ.Commons.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\bin\Debug\netcoreapp3.1\OZ.Commons.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.csproj.AssemblyReference.cache
+C:\Users\Oryza\Desktop\OZ.API\OZ.Commons\bin\Debug\netcoreapp3.1\OZ.Commons.deps.json
+C:\Users\Oryza\Desktop\OZ.API\OZ.Commons\bin\Debug\netcoreapp3.1\OZ.Commons.dll
+C:\Users\Oryza\Desktop\OZ.API\OZ.Commons\bin\Debug\netcoreapp3.1\OZ.Commons.pdb
+C:\Users\Oryza\Desktop\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.csproj.AssemblyReference.cache
+C:\Users\Oryza\Desktop\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oryza\Desktop\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.AssemblyInfoInputs.cache
+C:\Users\Oryza\Desktop\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.AssemblyInfo.cs
+C:\Users\Oryza\Desktop\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.csproj.CoreCompileInputs.cache
+C:\Users\Oryza\Desktop\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.dll
+C:\Users\Oryza\Desktop\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Commons\bin\Debug\netcoreapp3.1\OZ.Commons.deps.json
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Commons\bin\Debug\netcoreapp3.1\OZ.Commons.dll
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Commons\bin\Debug\netcoreapp3.1\OZ.Commons.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.csproj.AssemblyReference.cache
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.AssemblyInfoInputs.cache
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.AssemblyInfo.cs
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.csproj.CoreCompileInputs.cache
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.dll
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Commons\bin\Debug\netcoreapp3.1\OZ.Commons.deps.json
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Commons\bin\Debug\netcoreapp3.1\OZ.Commons.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Commons\bin\Debug\netcoreapp3.1\OZ.Commons.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.csproj.AssemblyReference.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.AssemblyInfoInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.AssemblyInfo.cs
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.csproj.CoreCompileInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.pdb

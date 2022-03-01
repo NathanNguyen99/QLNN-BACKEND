@@ -1,0 +1,10 @@
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\bin\x86\Debug\netcoreapp3.1\OZ.Entities.deps.json
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\bin\x86\Debug\netcoreapp3.1\OZ.Entities.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\bin\x86\Debug\netcoreapp3.1\OZ.Entities.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\obj\x86\Debug\netcoreapp3.1\OZ.Entities.csproj.AssemblyReference.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\obj\x86\Debug\netcoreapp3.1\OZ.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\obj\x86\Debug\netcoreapp3.1\OZ.Entities.AssemblyInfoInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\obj\x86\Debug\netcoreapp3.1\OZ.Entities.AssemblyInfo.cs
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\obj\x86\Debug\netcoreapp3.1\OZ.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\obj\x86\Debug\netcoreapp3.1\OZ.Entities.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\obj\x86\Debug\netcoreapp3.1\OZ.Entities.pdb

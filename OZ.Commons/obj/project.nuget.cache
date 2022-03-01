@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6PsmrrxXq08TIFb4z0da0786aMux3DSCdCMPvcWE+V9DIIUR6Zvpi2qtG+k953Jp5/nT32sSe4rlS0lTLBrELA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Commons\\OZ.Commons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oryza\\.nuget\\packages\\nlog\\4.7.11\\nlog.4.7.11.nupkg.sha512"
+  ],
+  "logs": []
+}

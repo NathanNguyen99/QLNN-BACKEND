@@ -1,0 +1,15 @@
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\bin\x86\Debug\netcoreapp3.1\OZ.Interfaces.deps.json
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\bin\x86\Debug\netcoreapp3.1\OZ.Interfaces.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\bin\x86\Debug\netcoreapp3.1\OZ.Interfaces.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\bin\x86\Debug\netcoreapp3.1\OZ.Entities.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\bin\x86\Debug\netcoreapp3.1\OZ.ViewModels.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\bin\x86\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\bin\x86\Debug\netcoreapp3.1\OZ.Entities.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\obj\x86\Debug\netcoreapp3.1\OZ.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\obj\x86\Debug\netcoreapp3.1\OZ.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\obj\x86\Debug\netcoreapp3.1\OZ.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\obj\x86\Debug\netcoreapp3.1\OZ.Interfaces.AssemblyInfo.cs
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\obj\x86\Debug\netcoreapp3.1\OZ.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\obj\x86\Debug\netcoreapp3.1\OZ.Interfaces.csproj.CopyComplete
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\obj\x86\Debug\netcoreapp3.1\OZ.Interfaces.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Interfaces\obj\x86\Debug\netcoreapp3.1\OZ.Interfaces.pdb

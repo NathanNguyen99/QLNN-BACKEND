@@ -1,0 +1,17 @@
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.ViewModels\bin\Debug\netcoreapp2.2\encoreApi.ViewModels.deps.json
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.ViewModels\bin\Debug\netcoreapp2.2\encoreApi.ViewModels.dll
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.ViewModels\bin\Debug\netcoreapp2.2\encoreApi.ViewModels.pdb
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.ViewModels\obj\Debug\netcoreapp2.2\encoreApi.ViewModels.csproj.CoreCompileInputs.cache
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.ViewModels\obj\Debug\netcoreapp2.2\encoreApi.ViewModels.AssemblyInfoInputs.cache
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.ViewModels\obj\Debug\netcoreapp2.2\encoreApi.ViewModels.AssemblyInfo.cs
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.ViewModels\obj\Debug\netcoreapp2.2\encoreApi.ViewModels.dll
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi\encoreApi.ViewModels\obj\Debug\netcoreapp2.2\encoreApi.ViewModels.pdb
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi2\encoreApi.ViewModels\bin\Debug\netcoreapp2.2\encoreApi.ViewModels.deps.json
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi2\encoreApi.ViewModels\bin\Debug\netcoreapp2.2\encoreApi.ViewModels.dll
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi2\encoreApi.ViewModels\bin\Debug\netcoreapp2.2\encoreApi.ViewModels.pdb
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi2\encoreApi.ViewModels\obj\Debug\netcoreapp2.2\encoreApi.ViewModels.csprojAssemblyReference.cache
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi2\encoreApi.ViewModels\obj\Debug\netcoreapp2.2\encoreApi.ViewModels.csproj.CoreCompileInputs.cache
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi2\encoreApi.ViewModels\obj\Debug\netcoreapp2.2\encoreApi.ViewModels.AssemblyInfoInputs.cache
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi2\encoreApi.ViewModels\obj\Debug\netcoreapp2.2\encoreApi.ViewModels.AssemblyInfo.cs
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi2\encoreApi.ViewModels\obj\Debug\netcoreapp2.2\encoreApi.ViewModels.dll
+D:\SOURCECODE\SVN\Amber\WebApp\encoreApi2\encoreApi.ViewModels\obj\Debug\netcoreapp2.2\encoreApi.ViewModels.pdb

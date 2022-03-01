@@ -1,0 +1,9 @@
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\bin\Release\netcoreapp2.2\OZ.ViewModels.deps.json
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\bin\Release\netcoreapp2.2\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\bin\Release\netcoreapp2.2\OZ.ViewModels.pdb
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\obj\Release\netcoreapp2.2\OZ.ViewModels.csprojAssemblyReference.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\obj\Release\netcoreapp2.2\OZ.ViewModels.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\obj\Release\netcoreapp2.2\OZ.ViewModels.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\obj\Release\netcoreapp2.2\OZ.ViewModels.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\obj\Release\netcoreapp2.2\OZ.ViewModels.dll
+D:\Hainm\CABD\WebApp2\WebApi\encoreApi.ViewModels\obj\Release\netcoreapp2.2\OZ.ViewModels.pdb

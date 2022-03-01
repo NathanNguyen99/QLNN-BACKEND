@@ -1,0 +1,30 @@
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Models\bin\Release\netcoreapp3.1\OZ.Entities.deps.json
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Models\bin\Release\netcoreapp3.1\OZ.Entities.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Models\bin\Release\netcoreapp3.1\OZ.Entities.pdb
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.csproj.AssemblyReference.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.AssemblyInfoInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.AssemblyInfo.cs
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.csproj.CoreCompileInputs.cache
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.dll
+D:\Hainm\CABD\WebApp2\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Models\bin\Release\netcoreapp3.1\OZ.Entities.deps.json
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Models\bin\Release\netcoreapp3.1\OZ.Entities.dll
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Models\bin\Release\netcoreapp3.1\OZ.Entities.pdb
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.csproj.AssemblyReference.cache
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.AssemblyInfoInputs.cache
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.AssemblyInfo.cs
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.csproj.CoreCompileInputs.cache
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.dll
+D:\Projects Files\QLNN Resources\Source File\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\bin\Release\netcoreapp3.1\OZ.Entities.deps.json
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\bin\Release\netcoreapp3.1\OZ.Entities.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\bin\Release\netcoreapp3.1\OZ.Entities.pdb
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.csproj.AssemblyReference.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.AssemblyInfoInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.AssemblyInfo.cs
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.dll
+C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Models\obj\Release\netcoreapp3.1\OZ.Entities.pdb
