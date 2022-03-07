@@ -215,14 +215,14 @@ namespace OZ.Repositories
             return PagedList<AddictRelationsDto>.ToPagedList(lstResult, pageNumber, pageSize);
         }
 
-        public IEnumerable<AddictRelationsDto2> GetAddictRelations2()
+        public IEnumerable<AddictRelationsDto2> GetAddictRelations2(IAddictRepository addictRepository)
         {
 
             //if (string.IsNullOrEmpty(searchString))
             //    searchString = "";
             //
-            var lstResult = (from a in RepositoryContext.Addicts
-                             //join p in RepositoryContext.AddictRelations on a.OID equals p.AddictID
+            var lstResult = (from a in addictRepository.GetAll()
+                                 //join p in RepositoryContext.AddictRelations on a.OID equals p.AddictID
                              select new AddictRelationsDto2()
                              {
                                  AddictID = a.OID,

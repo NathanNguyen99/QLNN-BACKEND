@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Storage;
 using System;
@@ -10,9 +11,12 @@ namespace OZ.Models.Context
     public class ApplicationContext : DbContext
     {
         private IDbContextTransaction dbContextTransaction;
+        //private readonly IHttpContextAccessor _httpContextAccessor;
+
         public ApplicationContext(DbContextOptions options)
             : base(options)
         {
+            //_httpContextAccessor = httpContextAccessor;
         }
         public DbSet<Addict> Addicts { get; set; }
         public DbSet<Drugs> Drugss { get; set; }

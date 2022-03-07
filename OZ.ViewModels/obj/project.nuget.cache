@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "flYa53G7t6K7gD4swp4QG09D67NjcxdVHwSeVsj+zTJDX4DpIXEA8MrO1CS9MZF7jA/8+Pd8RgD4he1cBVIXvQ==",
+  "dgSpecHash": "x3fX4XivttwfIRwQiWXzEV8hbZDsphYLHoXvnhwwntgO0ypRRlZl4dPByyXAiV5LLJNV0Kvj3qpXuNLjCy+8RQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.ViewModels\\OZ.ViewModels.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\nguye\\OneDrive\\Desktop\\QLNN-BACKEND\\OZ.ViewModels\\OZ.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

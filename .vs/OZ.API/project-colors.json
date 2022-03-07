@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d7ec2b57-c698-4b82-959f-bf3277c4c38c": {
+      "ProjectGuid": "d7ec2b57-c698-4b82-959f-bf3277c4c38c",
+      "DisplayName": "OZ.WebAPI",
+      "ColorIndex": 0
+    },
+    "a1b8ed67-883e-4349-a18e-7a464cd0e8e3": {
+      "ProjectGuid": "a1b8ed67-883e-4349-a18e-7a464cd0e8e3",
+      "DisplayName": "OZ.Repositories",
+      "ColorIndex": 1
+    },
+    "b86d8c9a-a7d7-45a5-b225-7d78c79f2aea": {
+      "ProjectGuid": "b86d8c9a-a7d7-45a5-b225-7d78c79f2aea",
+      "DisplayName": "OZ.Entities",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "875d8e6d-aada-4b5c-a5a5-4016e1c8824c": {
+      "ProjectGuid": "875d8e6d-aada-4b5c-a5a5-4016e1c8824c",
+      "DisplayName": "OZ.ViewModels",
+      "ColorIndex": 3
+    },
+    "7dfae203-58f7-4074-9004-1f8fd29939a1": {
+      "ProjectGuid": "7dfae203-58f7-4074-9004-1f8fd29939a1",
+      "DisplayName": "OZ.Interfaces",
+      "ColorIndex": 4
+    },
+    "6308e9f6-8796-48bc-adda-f1ac58ef7c23": {
+      "ProjectGuid": "6308e9f6-8796-48bc-adda-f1ac58ef7c23",
+      "DisplayName": "OZ.Maps",
+      "ColorIndex": 5
+    },
+    "f2fc4510-b0d5-4bf6-a2d2-6747fbd7cafa": {
+      "ProjectGuid": "f2fc4510-b0d5-4bf6-a2d2-6747fbd7cafa",
+      "DisplayName": "OZ.Services",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

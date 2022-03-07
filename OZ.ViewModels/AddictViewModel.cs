@@ -42,7 +42,7 @@ namespace OZ.ViewModels
         public bool? Complete { get; set; }
         public int? ManageType { get; set; }
         public DateTime? CompleteDate { get; set; }
-        public DateTime? CreateDate { get; set; }
+        public DateTime CreateDate { get; set; }
         public Guid? CreateUser { get; set; }
         public string ImgLink { get; set; }
         public bool? Dead { get; set; }

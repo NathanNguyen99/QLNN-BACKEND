@@ -57,3 +57,13 @@ C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.View
 C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.csproj.CoreCompileInputs.cache
 C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.dll
 C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.deps.json
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.dll
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.ViewModels\bin\Debug\netcoreapp3.1\OZ.ViewModels.pdb
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.dll
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.ViewModels\obj\Debug\netcoreapp3.1\OZ.ViewModels.pdb

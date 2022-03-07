@@ -13,9 +13,9 @@ namespace OZ.Interfaces
         AddictManagePlaceDto SaveCreate(AddictManagePlace domain);
         bool Update(AddictManagePlace domain);
         bool Delete(Guid id);
-        public PagedList<AddictManagePlaceDto> GetAddictPlaces(string sortName, string sortDirection, string searchString, int pageNumber, int pageSize);
+        public PagedList<AddictManagePlaceDto> GetAddictPlaces(string sortName, string sortDirection, string searchString, int pageNumber, int pageSize, IAddictRepository addictRepository);
         //public PagedList<AddictManagePlaceDto2> GetAddictPlace2(string sortName, string sortDirection, string searchString, int pageNumber, int pageSize);
-        IEnumerable<AddictManagePlaceDto2> GetAddictPlace2();
+        IEnumerable<AddictManagePlaceDto2> GetAddictPlace2(IAddictRepository addictRepository);
 
     }
 }

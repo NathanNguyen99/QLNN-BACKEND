@@ -8,9 +8,12 @@ namespace OZ.Services
     public class AddictManagePlaceService : IAddictManagePlaceService
     {
         private IAddictManagePlaceRepository repository;
-        public AddictManagePlaceService(IAddictManagePlaceRepository userRepository)
+        private IAddictRepository addictRepository;
+
+        public AddictManagePlaceService(IAddictManagePlaceRepository userRepository, IAddictRepository iAddictRepository)
         {
             repository = userRepository;
+            addictRepository = iAddictRepository;
         }
 
         public AddictManagePlaceDto Create(AddictManagePlace domain)
@@ -42,12 +45,12 @@ namespace OZ.Services
 
         public PagedList<AddictManagePlaceDto> GetAddictPlaces(string sortName, string sortDirection, string searchString, int pageNumber, int pageSize)
         {
-            return repository.GetAddictPlaces(sortName, sortDirection, searchString, pageNumber, pageSize);
+            return repository.GetAddictPlaces(sortName, sortDirection, searchString, pageNumber, pageSize, addictRepository);
         }
 
         public IEnumerable<AddictManagePlaceDto2> GetAddictPlace2()
         {
-            return repository.GetAddictPlace2();
+            return repository.GetAddictPlace2(addictRepository);
         }
     }
 }

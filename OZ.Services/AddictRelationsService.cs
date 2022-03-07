@@ -8,8 +8,12 @@ namespace OZ.Services
     public class AddictRelationsService : IAddictRelationsService
     {
         private IAddictRelationsRepository repository;
-        public AddictRelationsService(IAddictRelationsRepository userRepository)
+        private IAddictRepository addictRepository;
+
+
+        public AddictRelationsService(IAddictRelationsRepository userRepository, IAddictRepository iAddictRepository)
         {
+            addictRepository = iAddictRepository;
             repository = userRepository;
         }
         public AddictRelationsDto Create(AddictRelations domain)
@@ -46,7 +50,7 @@ namespace OZ.Services
 
         public IEnumerable<AddictRelationsDto2> GetAddictRelations2()
         {
-            return repository.GetAddictRelations2();
+            return repository.GetAddictRelations2(addictRepository);
         }
     }
 }

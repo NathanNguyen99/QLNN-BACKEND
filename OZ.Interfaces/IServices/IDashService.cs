@@ -7,13 +7,13 @@ namespace OZ.Interfaces
 {
     public interface IDashService
     {
-        List<Dash01> GetDashBoard01();
-        List<Dash02> GetDashBoard02();
+        IEnumerable<Dash01> GetDashBoard01();
+        IEnumerable<Dash02> GetDashBoard02();
         List<Dash03> GetDashBoard03();
-        List<Dash04> GetDashBoard04();
-        List<Dash05> GetDashBoard05();
-        List<DashClassify> GetDashBoardClassify();
-        List<DashAddictType> GetDashBoardAddictType();
+        IEnumerable<Dash04> GetDashBoard04();
+        IEnumerable<Dash05> GetDashBoard05();
+        IEnumerable<DashClassify> GetDashBoardClassify();
+        IEnumerable<DashAddictType> GetDashBoardAddictType();
 
     }
 }

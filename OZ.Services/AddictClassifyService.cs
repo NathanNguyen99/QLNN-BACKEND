@@ -7,9 +7,11 @@ namespace OZ.Services
 {
     public class AddictClassifyService : IAddictClassifyService
     {
+        private IAddictRepository addictRepository;
         private IAddictClassifyRepository repository;
-        public AddictClassifyService(IAddictClassifyRepository userRepository)
+        public AddictClassifyService(IAddictClassifyRepository userRepository, IAddictRepository iAddictRepository)
         {
+            addictRepository = iAddictRepository;
             repository = userRepository;
         }
         public AddictClassifyDto Create(AddictClassify domain)
@@ -26,7 +28,7 @@ namespace OZ.Services
         }
         public IEnumerable<AddictClassifyDto> GetAll()
         {
-            return repository.GetAll();
+            return repository.GetAll(addictRepository);
         }
 
         public AddictClassifyDto GetByID(Guid id)

@@ -8,19 +8,25 @@ namespace OZ.Services
     public class DashService : IDashService
     {
         private IDashRepository repository;
-        public DashService(IDashRepository iRepository)
+        private IAddictRepository addictRepository;
+        private IAddictClassifyRepository addictClassifyRepository;
+
+        public DashService(IDashRepository iRepository, IAddictRepository iAddictRepository, IAddictClassifyRepository iAddictClassifyRepository)
         {
             repository = iRepository;
+            addictRepository = iAddictRepository;
+            addictClassifyRepository = iAddictClassifyRepository;
         }
 
-        public List<Dash01> GetDashBoard01()
+        public IEnumerable<Dash01> GetDashBoard01()
         {
-            return repository.GetDashBoard01().Result;
+            //return repository.GetDashBoard01().Result;
+            return repository.GetDashBoard01(addictRepository);
         }
 
-        public List<Dash02> GetDashBoard02()
+        public IEnumerable<Dash02> GetDashBoard02()
         {
-            return repository.GetDashBoard02().Result;
+            return repository.GetDashBoard02(addictRepository);
         }
 
         public List<Dash03> GetDashBoard03()
@@ -28,23 +34,23 @@ namespace OZ.Services
             return repository.GetDashBoard03().Result;
         }
 
-        public List<Dash04> GetDashBoard04()
+        public IEnumerable<Dash04> GetDashBoard04()
         {
-            return repository.GetDashBoard04().Result;
+            return repository.GetDashBoard04(addictRepository);
         }
 
-        public List<Dash05> GetDashBoard05()
+        public IEnumerable<Dash05> GetDashBoard05()
         {
-            return  repository.GetDashBoard05().Result;
+            return  repository.GetDashBoard05(addictRepository);
         }
-        public List<DashClassify> GetDashBoardClassify()
+        public IEnumerable<DashClassify> GetDashBoardClassify()
         {
-            return repository.GetDashBoardClassify().Result;
+            return repository.GetDashBoardClassify(addictClassifyRepository, addictRepository);
         }
 
-        public List<DashAddictType> GetDashBoardAddictType()
+        public IEnumerable<DashAddictType> GetDashBoardAddictType()
         {
-            return repository.GetDashBoardAddictType().Result;
+            return repository.GetDashBoardAddictType();
         }
     }
 }

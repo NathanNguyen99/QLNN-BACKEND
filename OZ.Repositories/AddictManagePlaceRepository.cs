@@ -153,20 +153,13 @@ namespace OZ.Repositories
         /// <param name="pageNumber"></param>
         /// <param name="pageSize"></param>
         /// <returns></returns>
-        public PagedList<AddictManagePlaceDto> GetAddictPlaces(string sortName, string sortDirection, string searchString, int pageNumber, int pageSize)
+        public PagedList<AddictManagePlaceDto> GetAddictPlaces(string sortName, string sortDirection, string searchString, int pageNumber, int pageSize, IAddictRepository addictRepository)
         {
-            //IQueryable<AddictManagePlace> lstResult
-            //var lstResult = FindAll().Join(RepositoryContext.ManagePlaces,
-            //    a => a.ManagePlaceID,
-            //    b => b.OID, (a, b) =>
-            //    new { b, a }).Join(RepositoryContext.ManageTypes,
-            //                    c => c.b.PlaceTypeID,
-            //                    d => d.OID, (c, d) => new { a = c.a, c.b.PlaceName, PlaceTypeName = d.ManagementType });
             if (string.IsNullOrEmpty(searchString))
                 searchString = "";
 
             var lstResult = (from c in FindAll()
-                             join a in RepositoryContext.Addicts on c.AddictID equals a.OID
+                             join a in addictRepository.GetAll() on c.AddictID equals a.OID
                              join p in RepositoryContext.PlaceTypes on c.PlaceTypeID equals p.OID into ps
                              from p1 in ps.DefaultIfEmpty()
                              join l in RepositoryContext.ManagePlaces on c.ManagePlaceID equals l.OID into ps1
@@ -251,16 +244,16 @@ namespace OZ.Repositories
             return PagedList<AddictManagePlaceDto>.ToPagedList((from i in lstResult select i), pageNumber, pageSize);
         }
         //PagedList<AddictManagePlaceDto2>
-        public IEnumerable<AddictManagePlaceDto2> GetAddictPlace2()
+        public IEnumerable<AddictManagePlaceDto2> GetAddictPlace2(IAddictRepository addictRepository)
         {
 
             //if (string.IsNullOrEmpty(searchString))
             //    searchString = "";
             //
-            var lstResult = (from a in RepositoryContext.Addicts
-                             //join p in RepositoryContext.AddictManagePlaces on a.OID equals p.AddictID
-                             //where a.AddictCode.Contains(searchString) || a.FullName.Contains(searchString)
-                             //|| a.LastName.Contains(searchString)
+            var lstResult = (from a in addictRepository.GetAll()
+                                 //join p in RepositoryContext.AddictManagePlaces on a.OID equals p.AddictID
+                                 //where a.AddictCode.Contains(searchString) || a.FullName.Contains(searchString)
+                                 //|| a.LastName.Contains(searchString)
 
                              select new AddictManagePlaceDto2()
                              {
@@ -275,39 +268,6 @@ namespace OZ.Repositories
               .Select(y => y.Key)
               .ToList();
 
-            //if (!String.IsNullOrEmpty(sortName) && !string.IsNullOrEmpty(sortDirection))
-            //{
-            //    if (sortDirection.Contains("asc"))
-            //    {
-            //        switch (sortName)
-            //        {
-            //            case nameof(AddictManagePlaceDto2.DOB):
-            //                lstResult = lstResult.OrderBy(r => r.DOB);
-            //                break;
-            //            case "AddictCode":
-            //                lstResult = lstResult.OrderBy(r => r.AddictCode);
-            //                break;
-            //            case "AddictName":
-            //                lstResult = lstResult.OrderBy(r => r.AddictName);
-            //                break;
-            //        }
-            //    }
-            //    else
-            //    {
-            //        switch (sortName)
-            //        {
-            //            case nameof(AddictManagePlaceDto2.DOB):
-            //                lstResult = lstResult.OrderByDescending(r => r.DOB);
-            //                break;
-            //            case "AddictCode":
-            //                lstResult = lstResult.OrderByDescending(r => r.AddictCode);
-            //                break;
-            //            case "AddictName":
-            //                lstResult = lstResult.OrderByDescending(r => r.AddictName);
-            //                break;
-            //        }
-            //    }
-            //}
 
             var lst1 = query.ToList();
             foreach (var item in lst1)

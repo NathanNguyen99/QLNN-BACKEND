@@ -7,7 +7,7 @@ namespace OZ.Interfaces
 {
     public interface IAddictClassifyRepository
     {
-        IEnumerable<AddictClassifyDto> GetAll();
+        IEnumerable<AddictClassifyDto> GetAll(IAddictRepository addictRepository);
         IEnumerable<AddictClassifyDto> GetByAddictID(Guid addictID);
         AddictClassifyDto GetByID(Guid id);
         AddictClassifyDto SaveCreate(AddictClassify domain);

@@ -14,6 +14,6 @@ namespace OZ.Interfaces
         bool Update(AddictRelations domain);
         bool Delete(Guid id);
         public PagedList<AddictRelationsDto> GetAddictRelations(string sortName, string sortDirection, string searchString, int pageNumber, int pageSize);
-        IEnumerable<AddictRelationsDto2> GetAddictRelations2();
+        IEnumerable<AddictRelationsDto2> GetAddictRelations2(IAddictRepository addictRepository);
     }
 }

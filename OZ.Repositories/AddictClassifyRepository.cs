@@ -77,12 +77,12 @@ namespace OZ.Repositories
                 return false;
             }
         }
-        public IEnumerable<AddictClassifyDto> GetAll()
+        public IEnumerable<AddictClassifyDto> GetAll(IAddictRepository addictRepository)
         {
             try
             {
                 var lstResult = (from c in FindAll()
-                                 join a in RepositoryContext.Addicts on c.AddictID equals a.OID
+                                 join a in addictRepository.GetAll() on c.AddictID equals a.OID
                                  join p in RepositoryContext.Classifys on c.ClassifyID equals p.OID into ps
                                  from p1 in ps.DefaultIfEmpty()                                                               
                                  select new AddictClassifyDto()

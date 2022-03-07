@@ -48,7 +48,7 @@ namespace OZ.Models
         public int? ManageType { get; set; }
         public bool? Complete { get; set; }
         public DateTime? CompleteDate { get; set; }
-        public DateTime? CreateDate { get; set; }
+        public DateTime CreateDate { get; set; }
         public Guid? CreateUser { get; set; }
         public string ImgLink { get; set; }
         public Guid? ManagePlaceID { get; set; } // de biet thuoc phuong nao quan ly

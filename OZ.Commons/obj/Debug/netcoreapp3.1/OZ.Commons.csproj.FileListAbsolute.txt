@@ -38,3 +38,13 @@ C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons
 C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.csproj.CoreCompileInputs.cache
 C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.dll
 C:\Users\Oryza\Desktop\QLNN\OZ.API\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.pdb
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.Commons\bin\Debug\netcoreapp3.1\OZ.Commons.deps.json
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.Commons\bin\Debug\netcoreapp3.1\OZ.Commons.dll
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.Commons\bin\Debug\netcoreapp3.1\OZ.Commons.pdb
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.AssemblyInfoInputs.cache
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.AssemblyInfo.cs
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.dll
+C:\Users\nguye\OneDrive\Desktop\QLNN-BACKEND\OZ.Commons\obj\Debug\netcoreapp3.1\OZ.Commons.pdb

@@ -1,27 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Commons\\OZ.Commons.csproj": {}
+    "C:\\Users\\nguye\\OneDrive\\Desktop\\QLNN-BACKEND\\OZ.Commons\\OZ.Commons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Commons\\OZ.Commons.csproj": {
+    "C:\\Users\\nguye\\OneDrive\\Desktop\\QLNN-BACKEND\\OZ.Commons\\OZ.Commons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Commons\\OZ.Commons.csproj",
+        "projectUniqueName": "C:\\Users\\nguye\\OneDrive\\Desktop\\QLNN-BACKEND\\OZ.Commons\\OZ.Commons.csproj",
         "projectName": "OZ.Commons",
-        "projectPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Commons\\OZ.Commons.csproj",
-        "packagesPath": "C:\\Users\\Oryza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Oryza\\Desktop\\QLNN\\OZ.API\\OZ.Commons\\obj\\",
+        "projectPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\QLNN-BACKEND\\OZ.Commons\\OZ.Commons.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nguye\\OneDrive\\Desktop\\QLNN-BACKEND\\OZ.Commons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Oryza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.org/api/v2": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -54,12 +55,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

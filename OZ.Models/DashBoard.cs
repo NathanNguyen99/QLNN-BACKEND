@@ -6,6 +6,7 @@ namespace OZ.Models
 {
     public class Dash01
     {
+        //public string MonthID { get; set; }
         public string MonthID { get; set; }
         public int Qty { get; set; }
     }

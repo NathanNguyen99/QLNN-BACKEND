@@ -29,7 +29,7 @@ namespace OZ.Repositories
     public class ManagePlaceRepository : RepositoryBase<ManagePlace>, IManagePlaceRepository
     {
         //Guid PlaceID;
-        
+        //string PlaceName;
         public ManagePlaceRepository(ApplicationContext context, IHttpContextAccessor httpContextAccessor, IConfiguration configuration) : base(context)
         { Configuration = configuration;
             //PlaceID = new Guid(httpContextAccessor.HttpContext.User.FindFirst("PlaceID").Value);
@@ -295,41 +295,23 @@ namespace OZ.Repositories
                                });
                     return lst1;
                 }
-                //Normal filter goes with filter (city type) => This is admin mode
-                    //if (getPlaceName == "Admin")
-                    //{
-                    //    var lst2 = (from c in RepositoryContext.ManagePlaces
-                    //               join p in RepositoryContext.PlaceTypes on c.PlaceTypeID equals p.OID into ps
-                    //               from p1 in ps.DefaultIfEmpty()
-                    //               orderby c.PlaceName
-                    //               where c.PlaceTypeID == typ && c.ManageCityID == citytyp
-                    //               select new ManagePlaceDto()
-                    //               {
-                    //                   OID = c.OID,
-                    //                   PlaceName = c.PlaceName,
-                    //                   Address = c.Address,
-                    //                   PlaceTypeID = c.PlaceTypeID,
-                    //                   PlaceTypeName = p1.PlaceTypeName,
-                    //                   ManageCityID = c.ManageCityID
-                    //               });
-                    //    return lst2;
-                    //}
-
-                var lst3 = (from c in RepositoryContext.ManagePlaces
-                            join p in RepositoryContext.PlaceTypes on c.PlaceTypeID equals p.OID into ps
-                            from p1 in ps.DefaultIfEmpty()
-                            orderby c.PlaceName
-                            where c.PlaceTypeID == typ && c.ManageCityID == citytyp
-                            select new ManagePlaceDto()
-                            {
-                                OID = c.OID,
-                                PlaceName = c.PlaceName,
-                                Address = c.Address,
-                                PlaceTypeID = c.PlaceTypeID,
-                                PlaceTypeName = p1.PlaceTypeName,
-                                ManageCityID = c.ManageCityID
-                            });
-                return lst3;
+                
+                    var lst3 = (from c in RepositoryContext.ManagePlaces
+                                join p in RepositoryContext.PlaceTypes on c.PlaceTypeID equals p.OID into ps
+                                from p1 in ps.DefaultIfEmpty()
+                                orderby c.PlaceName
+                                where c.PlaceTypeID == typ && c.ManageCityID == citytyp
+                                select new ManagePlaceDto()
+                                {
+                                    OID = c.OID,
+                                    PlaceName = c.PlaceName,
+                                    Address = c.Address,
+                                    PlaceTypeID = c.PlaceTypeID,
+                                    PlaceTypeName = p1.PlaceTypeName,
+                                    ManageCityID = c.ManageCityID
+                                });
+                   return lst3;
+                
             }
             catch (Exception ex)
             {
