@@ -40,6 +40,7 @@ namespace OZ.Maps
         {
             List<DashViewModel02> lstmodel = new List<DashViewModel02>();
             var dblist = empService.GetDashBoard02();
+          
             foreach (var item in dblist)
             {
                 lstmodel.Add(new DashViewModel02() { Syear = item.Syear, male = item.male, female = item.female });
