@@ -10,9 +10,11 @@ namespace OZ.Services
     public class ManagePlaceService : IManagePlaceService
     {
         private IManagePlaceRepository repository;
-        public ManagePlaceService(IManagePlaceRepository userRepository)
+        private IAddictRepository addictRepository;
+        public ManagePlaceService(IManagePlaceRepository userRepository, IAddictRepository iAddictRepository)
         {
             repository = userRepository;
+            addictRepository = iAddictRepository;
         }
         public ManagePlaceDto SaveCreate(ManagePlace domain)
         {

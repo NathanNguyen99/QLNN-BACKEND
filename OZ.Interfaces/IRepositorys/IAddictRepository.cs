@@ -11,7 +11,8 @@ namespace OZ.Interfaces
     {
         IEnumerable<Addict> GetAll();
         IEnumerable<AddictDto> GetAddict();
-
+        //Guid SendPlaceID();
+        //int SendManageCityID();
         IEnumerable<Addict> GetByPlaceID(Guid placeID);
         IEnumerable<AddictBaseDto> GetBaseFields();
         IEnumerable<Addict> Search(string sname, int genderID, int fromAge, int toAge, string SocialNetwork, string CitizenID, Guid? WardID);

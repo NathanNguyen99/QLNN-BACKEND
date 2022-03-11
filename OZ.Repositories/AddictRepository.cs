@@ -13,20 +13,19 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Security.Claims;
-
+using AppContext = OZ.Models.Context.Helpers.AppContext;
 namespace OZ.Repositories
 {
     public class AddictRepository : RepositoryBase<Addict>, IAddictRepository
     {
-        Guid PlaceID;
-        int ManageCityID;
-        public AddictRepository(ApplicationContext context, IHttpContextAccessor httpContextAccessor, IConfiguration configuration) : base(context)
+        
+        public AddictRepository(ApplicationContext context, IConfiguration configuration) : base(context)
         {
             Configuration = configuration;
-            ManageCityID = Int32.Parse(httpContextAccessor.HttpContext.User.FindFirst("ManageCityID").Value);
-            PlaceID = new Guid(httpContextAccessor.HttpContext.User.FindFirst("PlaceID").Value);
+            
         }
         public IConfiguration Configuration { get; }
+
 
         public Addict Save(Addict domain)
         {
@@ -203,36 +202,36 @@ namespace OZ.Repositories
                                 {
                                     AddictCode = a.AddictCode,
                                     FullName = a.FullName,
-                                    OtherName = a.OtherName,
+                                    OtherName = a?.OtherName ?? "",
                                     GenderName = B1?.GenderName ?? "",
-                                    PlaceOfBirthName = c.ProvinceName,
-                                    DateOfBirth = a.DateOfBirth,
-                                    PemanentAddress = a.PemanentAddress,
-                                    CurrentAddress = a.CurrentAddress,
-                                    Profession = a.Profession,
-                                    PhoneNumber = a.PhoneNumber,
-                                    SocialNetworkAccount = a.SocialNetworkAccount,
+                                    PlaceOfBirthName = c?.ProvinceName ?? "",
+                                    DateOfBirth = a?.DateOfBirth ?? null,
+                                    PemanentAddress = a?.PemanentAddress ?? "",
+                                    CurrentAddress = a?.CurrentAddress ?? "",
+                                    Profession = a?.Profession ?? "",
+                                    PhoneNumber = a?.PhoneNumber ?? "",
+                                    SocialNetworkAccount = a?.SocialNetworkAccount ?? "",
                                     EducationLevelName = d?.EducationName ?? "",
-                                    CitizenID = a.CitizenID, 
-                                    IssueDate = a.IssueDate,
+                                    CitizenID = a?.CitizenID ?? "", 
+                                    IssueDate = a?.IssueDate ?? null,
                                     IssuePlaceName = C3?.ProvinceName ?? "",
                                     EthnicName = E1?.EthicName ?? "",
                                     ReligionName = B2?.ReligionName ?? "",
                                     NationalityName = C2?.NationalityName ?? "",
                                     WorkStatusName = D2?.WorkStatusName ?? "",
                                     MarriageName = E2?.MarriageName ?? "",
-                                    CriminalConviction = a.CriminalConviction,
-                                    CriminalRecord = a.CriminalRecord,
-                                    Detoxed = a.Detoxed,
-                                    FartherName = a.FartherName,
-                                    MotherName = a.MotherName,  
-                                    PartnerName = a.PartnerName,
-                                    Characteristics = a.Characteristics,
-                                    Remarks1 = a.Remarks1,
-                                    Complete = a.Complete,
+                                    CriminalConviction = a?.CriminalConviction ?? "",
+                                    CriminalRecord = a?.CriminalRecord ?? "",
+                                    Detoxed = a?.Detoxed ?? null,
+                                    FartherName = a?.FartherName ?? "",
+                                    MotherName = a?.MotherName ?? "",  
+                                    PartnerName = a?.PartnerName ?? "",
+                                    Characteristics = a?.Characteristics ?? "",
+                                    Remarks1 = a?.Remarks1 ?? "",
+                                    Complete = a?.Complete ?? null,
                                     CreateUserName = A3?.FullName ?? "",
                                     ManagePlaceName = B3?.PlaceName ?? "",
-                                    Dead = a.Dead
+                                    Dead = a?.Dead ?? null
                                 };
 
                 return lstResult;
@@ -251,38 +250,40 @@ namespace OZ.Repositories
             try
             {
                 // Select all ManagePlaces equals to MangeCityID
+                var _manageCityID = Int32.Parse(AppContext.Current.User.FindFirst("ManageCityID").Value);
+               
+                var _placeID = new Guid(AppContext.Current.User.FindFirst("PlaceID").Value);
                 var test = from c in RepositoryContext.ManagePlaces
-                           where c.ManageCityID == ManageCityID
+                           where c.ManageCityID == _manageCityID
                            select c;
 
                 var getPlaceName = (from c in RepositoryContext.AppUsers
                                     join b in RepositoryContext.ManagePlaces on c.PlaceID equals b.OID
-                                    where c.PlaceID == PlaceID
+                                    where c.PlaceID == _placeID
                                     select b.PlaceName).FirstOrDefault();
                 if (getPlaceName == "Admin")
                 {
-                    if (ManageCityID == 10)
+                    // Tinh?
+                    if (_manageCityID == 10)
                     {
                         var lstResult3 = from c in FindAll()
                                          select c;
                         return lstResult3;
                     }
+
+                    // Huyen, Thanh Pho
                     var lstResult2 = from c in FindAll()
                                      join b in test on c.ManagePlaceID equals b.OID
-                                     //where c.ManagePlaceID == PlaceID
+                     
                                      select c;
                     return lstResult2;
                 }
-                
+               
                 var lstResult = from c in FindAll()
-                                //join b in test on c.ManagePlaceID equals b.OID
-                                where c.ManagePlaceID == PlaceID
+           
+                                where c.ManagePlaceID == _placeID
                                 select c;
-
                 return lstResult;
-
-                //var lstResult = from c in FindAll() select c;
-                //return lstResult;
             }
             catch (Exception ex)
             {

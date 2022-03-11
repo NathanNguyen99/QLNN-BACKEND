@@ -11,29 +11,25 @@ namespace OZ.Models.Context
     public class ApplicationContext : DbContext
     {
         private IDbContextTransaction dbContextTransaction;
-        //private readonly IHttpContextAccessor _httpContextAccessor;
 
         public ApplicationContext(DbContextOptions options)
             : base(options)
         {
-            //_httpContextAccessor = httpContextAccessor;
+            
         }
+
         public DbSet<Addict> Addicts { get; set; }
         public DbSet<Drugs> Drugss { get; set; }
         public DbSet<Relations> Relations { get; set; }
-
         public DbSet<Classify> Classifys { get; set; }
         public DbSet<User> AppUsers { get; set; }
-
         public DbSet<AddictDrugs> AddictDrugss { get; set; }
         public DbSet<AddictRelations> AddictRelations { get; set; }
         public DbSet<AddictManagePlace> AddictManagePlaces { get; set; }
         public DbSet<AddictVehicle> AddictVehicle { get; set; }
-
         public DbSet<AddictClassify> AddictClassifys { get; set; }
         public DbSet<EducationLevel> EducationLevels { get; set; }
         public DbSet<Gender> Genders { get; set; }
-
         public DbSet<ManagePlace> ManagePlaces { get; set; }
         public DbSet<ManageCity> ManageCity { get; set; }
         public DbSet<ManageCityType> ManageCityType { get; set; }
@@ -45,11 +41,8 @@ namespace OZ.Models.Context
         public DbSet<Nationality> Nationality { get; set; }
         public DbSet<WorkStatus> WorkStatus { get; set; }
         public DbSet<Marriage> Marriage { get; set; }
-
-
         public DbSet<Uses> Usess { get; set; }
         public DbSet<Ward> Wards { get; set; }
-
         public DbQuery<Dash01> Dash01s { get; set; }
         public DbQuery<Dash02> Dash02s { get; set; }
         public DbQuery<Dash03> Dash03s { get; set; }
@@ -57,7 +50,6 @@ namespace OZ.Models.Context
         public DbQuery<Dash05> Dash05s { get; set; }
         public DbQuery<DashClassify> DashClassifys { get; set; }
         public DbQuery<DashAddictType> DashAddictTypes { get; set; }
-
         public DbQuery<FaceList> FaceLists { get; set; }
         public new void SaveChanges()
         {
@@ -96,6 +88,8 @@ namespace OZ.Models.Context
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
+
+            
             builder.Entity<Drugs>().ToTable("Drugs");
             builder.Entity<Classify>().ToTable("Classify");
             builder.Entity<Addict>().ToTable("Addict");

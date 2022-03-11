@@ -3,26 +3,20 @@ i:{00000000-0000-0000-0000-000000000000}:OZ.API.sln
 ++OZ.WebAPI
 i:{00000000-0000-0000-0000-000000000000}:OZ.WebAPI
 ++Connected Services 
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4784
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4468
 ++Dependencies
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4783
-i:{7dfae203-58f7-4074-9004-1f8fd29939a1}:>3392
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:>3390
-i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:>3391
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>3591
-i:{f2fc4510-b0d5-4bf6-a2d2-6747fbd7cafa}:>3282
-i:{875d8e6d-aada-4b5c-a5a5-4016e1c8824c}:>3280
-i:{950a0e9f-1d83-4d2d-b984-48900bb8e6e4}:>3281
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4467
+i:{7dfae203-58f7-4074-9004-1f8fd29939a1}:>2178
+i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:>2904
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>2903
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:>2179
+i:{f2fc4510-b0d5-4bf6-a2d2-6747fbd7cafa}:>2180
+i:{875d8e6d-aada-4b5c-a5a5-4016e1c8824c}:>3213
+i:{950a0e9f-1d83-4d2d-b984-48900bb8e6e4}:>3418
 ++Properties
 i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\properties\
 i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\properties\
 i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.repositories\properties\
-++PublishProfiles
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\properties\publishprofiles\
-i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\properties\publishprofiles\
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.repositories\properties\publishprofiles\
-++launchSettings.json
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\properties\launchsettings.json
 ++Controllers
 i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\controllers\
 ++AddictClassifyController.cs
@@ -67,8 +61,6 @@ i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-ba
 i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\images\
 ++appsettings.json
 i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\appsettings.json
-++appsettings.Development.json
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\appsettings.development.json
 ++DependencyInjectionConfig.cs
 i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\dependencyinjectionconfig.cs
 ++index.html
@@ -84,45 +76,46 @@ i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-ba
 ++Startup.cs
 i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\startup.cs
 ++No service dependencies discovered
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4785
 ++Analyzers
 i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:analyzers
 i:{7dfae203-58f7-4074-9004-1f8fd29939a1}:analyzers
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:analyzers
 i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:analyzers
 i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:analyzers
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:analyzers
 i:{f2fc4510-b0d5-4bf6-a2d2-6747fbd7cafa}:analyzers
 ++Frameworks
 i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:frameworks
 i:{7dfae203-58f7-4074-9004-1f8fd29939a1}:frameworks
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:frameworks
 i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:frameworks
 i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:frameworks
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:frameworks
 i:{f2fc4510-b0d5-4bf6-a2d2-6747fbd7cafa}:frameworks
 i:{875d8e6d-aada-4b5c-a5a5-4016e1c8824c}:frameworks
 i:{950a0e9f-1d83-4d2d-b984-48900bb8e6e4}:frameworks
 ++Packages
 i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:packages
 i:{7dfae203-58f7-4074-9004-1f8fd29939a1}:packages
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:packages
 i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:packages
 i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:packages
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:packages
 i:{f2fc4510-b0d5-4bf6-a2d2-6747fbd7cafa}:packages
 i:{950a0e9f-1d83-4d2d-b984-48900bb8e6e4}:packages
 ++Projects
 i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:projects
 i:{7dfae203-58f7-4074-9004-1f8fd29939a1}:projects
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:projects
 i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:projects
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:projects
 i:{f2fc4510-b0d5-4bf6-a2d2-6747fbd7cafa}:projects
-++FolderProfile.pubxml
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\properties\publishprofiles\folderprofile.pubxml
-i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\properties\publishprofiles\folderprofile.pubxml
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.repositories\properties\publishprofiles\folderprofile.pubxml
-++FolderProfile1.pubxml
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\properties\publishprofiles\folderprofile1.pubxml
+++PublishProfiles
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\properties\publishprofiles\
+i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\properties\publishprofiles\
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.repositories\properties\publishprofiles\
+++launchSettings.json
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\properties\launchsettings.json
 ++Addicts
 i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\images\addicts\
+++appsettings.Development.json
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\appsettings.development.json
 ++Microsoft.AspNetCore.Analyzers
 i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
 ++Microsoft.AspNetCore.Components.Analyzers
@@ -132,75 +125,81 @@ i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\program files\dotnet\sdk\6.0.100\sdk
 ++Microsoft.EntityFrameworkCore.Analyzers
 i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.20\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
 i:{7dfae203-58f7-4074-9004-1f8fd29939a1}:c:\users\nguye\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.18\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.18\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
 i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\.nuget\packages\microsoft.entityframeworkcore.analyzers\2.2.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
 i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:c:\users\nguye\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.18\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.18\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
 i:{f2fc4510-b0d5-4bf6-a2d2-6747fbd7cafa}:c:\users\nguye\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.18\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
 ++Microsoft.AspNetCore.App
 i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\microsoft.aspnetcore.app
 ++Microsoft.NETCore.App
 i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\microsoft.netcore.app
 i:{7dfae203-58f7-4074-9004-1f8fd29939a1}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.interfaces\microsoft.netcore.app
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\microsoft.netcore.app
 i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\microsoft.netcore.app
 i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.repositories\microsoft.netcore.app
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\microsoft.netcore.app
 i:{f2fc4510-b0d5-4bf6-a2d2-6747fbd7cafa}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.services\microsoft.netcore.app
 i:{875d8e6d-aada-4b5c-a5a5-4016e1c8824c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.viewmodels\microsoft.netcore.app
 i:{950a0e9f-1d83-4d2d-b984-48900bb8e6e4}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.commons\microsoft.netcore.app
 ++EPPlus (5.8.4)
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4836
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4483
 ++ExcelDataReader.DataSet (3.6.0)
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4835
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4482
 ++Microsoft.AspNet.WebApi.Core (5.2.7)
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4840
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4487
 ++Microsoft.AspNetCore.Authentication.JwtBearer (3.1.20)
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4841
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4488
 ++Microsoft.AspNetCore.Mvc.NewtonsoftJson (3.1.20)
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4838
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4485
 ++Microsoft.EntityFrameworkCore (3.1.20)
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4832
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4479
 ++Microsoft.EntityFrameworkCore.SqlServer (3.1.20)
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4833
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4480
 ++Newtonsoft.Json (13.0.1)
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4834
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4481
 ++NLog (4.7.11)
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4842
-i:{950a0e9f-1d83-4d2d-b984-48900bb8e6e4}:>4865
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4489
+i:{950a0e9f-1d83-4d2d-b984-48900bb8e6e4}:>4530
 ++NLog.Config (4.7.11)
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4839
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4486
 ++NLog.Schema (4.7.11)
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4837
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4484
 ++System.Data.OleDb (6.0.0)
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4843
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4490
 ++OZ.Commons
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.commons\oz.commons.csproj
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.commons\oz.commons.csproj
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.commons\bin\debug\netcoreapp3.1\oz.commons.dll
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.commons\bin\debug\netcoreapp3.1\oz.commons.dll
 i:{00000000-0000-0000-0000-000000000000}:OZ.Commons
 ++OZ.Entities
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\oz.entities.csproj
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\bin\debug\netcoreapp3.1\oz.entities.dll
 i:{7dfae203-58f7-4074-9004-1f8fd29939a1}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\bin\debug\netcoreapp3.1\oz.entities.dll
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\oz.entities.csproj
 i:{00000000-0000-0000-0000-000000000000}:OZ.Entities
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\oz.entities.csproj
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\bin\debug\netcoreapp3.1\oz.entities.dll
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\bin\debug\netcoreapp3.1\oz.entities.dll
 ++OZ.Interfaces
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.interfaces\oz.interfaces.csproj
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.interfaces\bin\debug\netcoreapp3.1\oz.interfaces.dll
 i:{00000000-0000-0000-0000-000000000000}:OZ.Interfaces
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.interfaces\oz.interfaces.csproj
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.interfaces\oz.interfaces.csproj
-i:{f2fc4510-b0d5-4bf6-a2d2-6747fbd7cafa}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.interfaces\oz.interfaces.csproj
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.interfaces\bin\debug\netcoreapp3.1\oz.interfaces.dll
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.interfaces\bin\debug\netcoreapp3.1\oz.interfaces.dll
+i:{f2fc4510-b0d5-4bf6-a2d2-6747fbd7cafa}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.interfaces\bin\debug\netcoreapp3.1\oz.interfaces.dll
 ++OZ.Maps
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\oz.maps.csproj
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\bin\debug\netcoreapp3.1\oz.maps.dll
 i:{00000000-0000-0000-0000-000000000000}:OZ.Maps
 ++OZ.Repositories
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.repositories\oz.repositories.csproj
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.repositories\bin\debug\netcoreapp3.1\oz.repositories.dll
 i:{00000000-0000-0000-0000-000000000000}:OZ.Repositories
 ++OZ.Services
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.services\oz.services.csproj
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.services\bin\debug\netcoreapp3.1\oz.services.dll
 i:{00000000-0000-0000-0000-000000000000}:OZ.Services
 ++OZ.ViewModels
-i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.viewmodels\oz.viewmodels.csproj
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.viewmodels\bin\debug\netcoreapp3.1\oz.viewmodels.dll
 i:{7dfae203-58f7-4074-9004-1f8fd29939a1}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.viewmodels\bin\debug\netcoreapp3.1\oz.viewmodels.dll
 i:{00000000-0000-0000-0000-000000000000}:OZ.ViewModels
+++FolderProfile.pubxml
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\properties\publishprofiles\folderprofile.pubxml
+i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\properties\publishprofiles\folderprofile.pubxml
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.repositories\properties\publishprofiles\folderprofile.pubxml
+++FolderProfile1.pubxml
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\properties\publishprofiles\folderprofile1.pubxml
 ++016c5d3e-86e4-4334-8cc8-36b36751f7b1.jpg
 i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.api\images\addicts\016c5d3e-86e4-4334-8cc8-36b36751f7b1.jpg
 ++048814fa-049a-4e63-aea0-21bab1fbb3dd.jpg
@@ -562,49 +561,17 @@ i:{7dfae203-58f7-4074-9004-1f8fd29939a1}:c:\users\nguye\onedrive\desktop\qlnn-ba
 ++IUsesService.cs
 i:{7dfae203-58f7-4074-9004-1f8fd29939a1}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.interfaces\iservices\iusesservice.cs
 ++Microsoft.EntityFrameworkCore (3.1.18)
-i:{7dfae203-58f7-4074-9004-1f8fd29939a1}:>4872
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:>4818
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4791
-i:{f2fc4510-b0d5-4bf6-a2d2-6747fbd7cafa}:>4811
+i:{7dfae203-58f7-4074-9004-1f8fd29939a1}:>4519
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4539
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:>4503
+i:{f2fc4510-b0d5-4bf6-a2d2-6747fbd7cafa}:>4540
 ++System.Drawing.Common (4.7.0)
-i:{7dfae203-58f7-4074-9004-1f8fd29939a1}:>4871
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4789
-++AddictClassifyMap.cs
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\addictclassifymap.cs
-++AddictDrugsMap.cs
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\addictdrugsmap.cs
-++AddictManagePlaceMap.cs
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\addictmanageplacemap.cs
-++AddictMap.cs
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\addictmap.cs
-++AddictRelationsMap.cs
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\addictrelationsmap.cs
-++AddictVehicleMap.cs
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\addictvehiclemap.cs
-++ClassifyMap.cs
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\classifymap.cs
-++DashboardMap.cs
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\dashboardmap.cs
-++DrugsMap.cs
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\drugsmap.cs
-++EducationLevelMap.cs
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\educationlevelmap.cs
-++ManageCityMap.cs
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\managecitymap.cs
-++ManagePlaceMap.cs
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\manageplacemap.cs
-++ProvinceMap.cs
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\provincemap.cs
-++RelationsMap.cs
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\relationsmap.cs
-++UserMap.cs
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\usermap.cs
-++UsesMap.cs
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\usesmap.cs
-++System.Drawing.Common (5.0.0)
-i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:>4817
+i:{7dfae203-58f7-4074-9004-1f8fd29939a1}:>4518
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4534
 ++Context
 i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\context\
+++AppContext.cs
+i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\context\appcontext.cs
 ++ApplicationContext.cs
 i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\context\applicationcontext.cs
 ++IApplicationContext.cs
@@ -659,6 +626,8 @@ i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\onedrive\desktop\qlnn-ba
 i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\relations.cs
 ++Religion.cs
 i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\religion.cs
+++SendAccessorData.cs
+i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\sendaccessordata.cs
 ++User.cs
 i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\user.cs
 ++Uses.cs
@@ -668,7 +637,7 @@ i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\onedrive\desktop\qlnn-ba
 ++WorkStatus.cs
 i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.models\workstatus.cs
 ++Microsoft.AspNetCore.Identity.EntityFrameworkCore (2.2.0)
-i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:>4807
+i:{b86d8c9a-a7d7-45a5-b225-7d78c79f2aea}:>4512
 ++AddictClassifyRepository.cs
 i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.repositories\addictclassifyrepository.cs
 ++AddictDrugsRepository.cs
@@ -704,23 +673,57 @@ i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:c:\users\nguye\onedrive\desktop\qlnn-ba
 ++UsesRepository.cs
 i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.repositories\usesrepository.cs
 ++ClosedXML (0.95.4)
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4798
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4551
 ++EntityFramework (6.4.4)
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4797
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4550
 ++LinqToExcel (1.11.0)
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4796
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4549
 ++Microsoft.ApplicationInsights.AspNetCore (2.20.0)
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4792
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4542
 ++Microsoft.AspNet.Mvc (5.2.7)
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4794
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4546
 ++Microsoft.AspNetCore.Http.Features (5.0.13)
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4790
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4536
 ++Microsoft.AspNetCore.Identity.EntityFrameworkCore (3.1.18)
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4793
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4544
 ++System.Data.OleDb (4.7.0)
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4799
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4552
 ++System.Data.SqlClient (4.8.3)
-i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4795
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4548
+++AddictClassifyMap.cs
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\addictclassifymap.cs
+++AddictDrugsMap.cs
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\addictdrugsmap.cs
+++AddictManagePlaceMap.cs
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\addictmanageplacemap.cs
+++AddictMap.cs
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\addictmap.cs
+++AddictRelationsMap.cs
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\addictrelationsmap.cs
+++AddictVehicleMap.cs
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\addictvehiclemap.cs
+++ClassifyMap.cs
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\classifymap.cs
+++DashboardMap.cs
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\dashboardmap.cs
+++DrugsMap.cs
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\drugsmap.cs
+++EducationLevelMap.cs
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\educationlevelmap.cs
+++ManageCityMap.cs
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\managecitymap.cs
+++ManagePlaceMap.cs
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\manageplacemap.cs
+++ProvinceMap.cs
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\provincemap.cs
+++RelationsMap.cs
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\relationsmap.cs
+++UserMap.cs
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\usermap.cs
+++UsesMap.cs
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.maps\usesmap.cs
+++System.Drawing.Common (5.0.0)
+i:{6308e9f6-8796-48bc-adda-f1ac58ef7c23}:>4502
 ++AddictClassifyService.cs
 i:{f2fc4510-b0d5-4bf6-a2d2-6747fbd7cafa}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.services\addictclassifyservice.cs
 ++AddictDrugsService.cs
@@ -797,3 +800,21 @@ i:{875d8e6d-aada-4b5c-a5a5-4016e1c8824c}:c:\users\nguye\onedrive\desktop\qlnn-ba
 i:{950a0e9f-1d83-4d2d-b984-48900bb8e6e4}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.commons\faceclass.cs
 ++NLogAction.cs
 i:{950a0e9f-1d83-4d2d-b984-48900bb8e6e4}:c:\users\nguye\onedrive\desktop\qlnn-backend\oz.commons\nlogaction.cs
+++Microsoft identity platform
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4563
+++Microsoft identity platform dependency is detected
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4564
+++Secrets.json (Local)
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4559
+++Secrets.json (Local) dependency is detected
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4560
+++SQL Server Database (ConnectionStrings:DefaultConnection)
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4561
+++SQL Server Database dependency with connectionId 'ConnectionStrings:DefaultConnection' is detected
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4562
+++Microsoft.AspNetCore.Http.Abstractions (2.2.0.0)
+++Microsoft.AspNetCore.Http.Abstractions (2.2.0)
+i:{d7ec2b57-c698-4b82-959f-bf3277c4c38c}:>4781
+i:{a1b8ed67-883e-4349-a18e-7a464cd0e8e3}:>4875
+++Microsoft.AspNetCore.Http.Abstractions (2.1.1.0)
+++Microsoft.AspNetCore.Http.Abstractions (2.1.1)

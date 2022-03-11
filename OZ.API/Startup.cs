@@ -13,6 +13,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using OZ.Models.Context.Helpers;
+using AppContext = OZ.Models.Context.Helpers.AppContext;
+using Microsoft.AspNetCore.Http;
 
 namespace OZ.API
 {
@@ -59,6 +62,8 @@ namespace OZ.API
             app.UseAuthentication();
             
             app.UseAuthorization();
+
+            AppContext.Configure(app.ApplicationServices.GetRequiredService<IHttpContextAccessor>());
 
             app.UseEndpoints(endpoints =>
             {

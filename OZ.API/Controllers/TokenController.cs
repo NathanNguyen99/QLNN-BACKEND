@@ -66,7 +66,7 @@ namespace OZ.Api.Controllers
             var token = new JwtSecurityToken(_config["Jwt:Issuer"],
               _config["Jwt:Issuer"],
               claims: claims,
-              expires: DateTime.Now.AddDays(365),
+              expires: DateTime.Now.AddDays(3),
               signingCredentials: creds);
             return new JwtSecurityTokenHandler().WriteToken(token);
         }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XiORgTNkKbQm+KSAIZkKpODh7GyXA8xuAW/lPVZc4BpQNlc7tt0UOH+1Gjd6qln/J3aNoPtMqa+kdV7NMXZs7A==",
+  "dgSpecHash": "u96jhM/zA+L9YDggSJLIRyQzH11cmqpcVLTVPLzUCr0ugH4LdMM1p/1tGDVdXJlH2Shqq6ppfutYoZ7bsIR2IQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\nguye\\OneDrive\\Desktop\\QLNN-BACKEND\\OZ.API\\OZ.WebAPI.csproj",
   "expectedPackageFiles": [
@@ -31,7 +31,7 @@
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.1.1\\microsoft.aspnetcore.hosting.abstractions.2.1.1.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.1.1\\microsoft.aspnetcore.hosting.server.abstractions.2.1.1.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.aspnetcore.http\\2.1.22\\microsoft.aspnetcore.http.2.1.22.nupkg.sha512",
-    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.1.1\\microsoft.aspnetcore.http.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.1.1\\microsoft.aspnetcore.http.extensions.2.1.1.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.13\\microsoft.aspnetcore.http.features.5.0.13.nupkg.sha512",
     "C:\\Users\\nguye\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.18\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.18.nupkg.sha512",

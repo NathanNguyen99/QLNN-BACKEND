@@ -4,6 +4,7 @@ using OZ.Models.Context;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using AppContext = OZ.Models.Context.Helpers.AppContext;
 
 namespace OZ.Repositories
 {
@@ -12,7 +13,7 @@ namespace OZ.Repositories
         public UserRepository(ApplicationContext context) : base(context)
         { }
 
-        public new UserDto SaveCreate(User domain)
+        public UserDto SaveCreate(User domain)
         {
             try
             {
@@ -81,6 +82,15 @@ namespace OZ.Repositories
         {
             try
             {
+                var _manageCityID = Int32.Parse(AppContext.Current.User.FindFirst("ManageCityID").Value);
+                var _placeID = new Guid(AppContext.Current.User.FindFirst("PlaceID").Value);
+                var test = from c in RepositoryContext.ManagePlaces
+                           where c.ManageCityID == _manageCityID
+                           select c;
+                var getPlaceName = (from c in RepositoryContext.AppUsers
+                                    join b in RepositoryContext.ManagePlaces on c.PlaceID equals b.OID
+                                    where c.PlaceID == _placeID
+                                    select b.PlaceName).FirstOrDefault();
                 var lst = (from c in RepositoryContext.AppUsers
                            join p in RepositoryContext.ManagePlaces on c.PlaceID equals p.OID into ps
                            from p1 in ps.DefaultIfEmpty()
@@ -90,8 +100,7 @@ namespace OZ.Repositories
                            from p3 in ps3.DefaultIfEmpty()
                            select new UserDto()
                            {
-                        
-                                OID = c.OID,
+                               OID = c.OID,
                                UserName = c.UserName,
                                FullName = c.FullName,
                                Password = c.Password,
@@ -104,7 +113,19 @@ namespace OZ.Repositories
                                ManageCityTypeName = p2.ManageCityTypeName,
                                ManageCityName = p3.CityName
                            });
-                return lst;
+                if (getPlaceName == "Admin")
+                {
+                    if (_manageCityID == 10)
+                    { 
+                        return lst;
+                    }
+                    var lst2 = (from c in lst
+                                join b in test on c.PlaceID equals b.OID
+                               select c);
+                    return lst2;
+                }
+                var lst3 = from c in lst where c.PlaceID == _placeID select c;
+                return lst3;
             }
             catch (Exception ex)
             {
